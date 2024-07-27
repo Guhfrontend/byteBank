@@ -12,3 +12,5 @@ Conta2.saldo = 100;
 
 console.log(Conta1);
 console.log(Conta2);
+
+console.log(ContaCorrente.numeroDeContas)
